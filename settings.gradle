@@ -1,0 +1,5 @@
+rootProject.name = 'graglePr'
+include 'db'
+include 'service'
+include 'api'
+
